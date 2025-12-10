@@ -4,7 +4,7 @@ metadata:
   name: mongodb
   namespace: roboshop
 spec:
-  type: {{ .Value.service.type }}
+  type: {{ .Values.service.type }}
   selector:
     project: roboshop
     component: mongodb
