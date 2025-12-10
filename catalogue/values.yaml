@@ -1,3 +1,5 @@
 deployment:
-imageRepo: somayya98/catalogue
-imageVersion: v1
+  imageRepo: somayya98/catalogue
+  imageVersion: v1
+service: 
+  targetport: 80
