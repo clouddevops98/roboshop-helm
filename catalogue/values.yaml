@@ -1,0 +1,3 @@
+deployment:
+imageRepo: somayya98/catalogue
+imageVersion: v1
