@@ -2,4 +2,4 @@ deployment:
   imageRepo: somayya/mongodb
   imageVersion: v1
 service:
-  type: ClusterIp
+  type: ClusterIP
